@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there! ✨
 
-<!--
-**agnosticlines/agnosticlines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm agnosticlines, if you're reading this you probably know me elsewhere. I'm not a bot, I star a lot of things and follow a lot of people but I am a human.
 
-Here are some ideas to get you started:
+I have an interest in:
+ * reverse engineering
+ * os, hypervisor & browser internals
+ * program analysis
+ * program synthesis
+ * fuzzing
+ * symbolic execution
+ * decompiler research
+ * secure software development
+ * hardware/software exploit mitigations
+ * memory safe languages (rust, sometimes go)
+ * vulnerability research (mobile & desktop)
+ * system emulation
+ * red team tooling/implant development
+ * backend development
+ * frontend development (still learning!)
+ * devops
+ * self hosted software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+Coming soon.. maybe
