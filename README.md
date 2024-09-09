@@ -12,7 +12,7 @@ I have an interest in:
  * decompiler research
  * secure software development
  * hardware/software exploit mitigations
- * memory safe languages (rust, zig, go)
+ * memory safe languages (rust, sometimes go)
  * vulnerability research (mobile & desktop)
  * system emulation
  * red team tooling/implant development
